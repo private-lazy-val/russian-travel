@@ -1,0 +1,11 @@
+.footer__link {
+  text-decoration: none;
+  color: #fff;
+  margin-right: 18px;
+  transition: color .2s ease-in-out;
+}
+
+.footer__link:hover,
+:focus {
+  color: hsla(0, 0%, 100%, 0.607);
+}

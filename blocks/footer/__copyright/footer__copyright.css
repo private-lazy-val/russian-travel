@@ -1,0 +1,33 @@
+.footer__copyright {
+  margin: 0;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 114%;
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer__copyright:hover {
+  background: linear-gradient(45deg, #fd004c,
+      #fe9000,
+      #fff200,
+      #3edf4b,
+      #3363ff,
+      #b102b7);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-size: 200%;
+  transition: color .3s linear;
+  animation: rainbow-animation 2s linear infinite alternate-reverse;
+}
+
+@keyframes rainbow-animation {
+  0% {
+    background-position: left;
+  }
+
+  100% {
+    background-position: right;
+  }
+}

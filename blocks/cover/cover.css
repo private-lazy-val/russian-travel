@@ -1,0 +1,7 @@
+.cover {
+  display: grid;
+  grid-template-columns: 1184px;
+  justify-content: center;
+  align-items: center;
+  margin: 92px 0;
+}

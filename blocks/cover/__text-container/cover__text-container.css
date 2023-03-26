@@ -1,0 +1,13 @@
+.cover__text-container {
+  grid-column: 1;
+  grid-row: 1;
+  position: relative;
+  z-index: 2;
+  width: 560px;
+  text-align: center;
+  margin: 0 auto;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+

@@ -1,0 +1,10 @@
+.places__text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  margin: 0;
+}
+
+.places__text:nth-child(1) {
+  margin-bottom: 26px;
+}

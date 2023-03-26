@@ -1,0 +1,10 @@
+.lang-menu__lang-link {
+  color: #fff;
+  text-decoration: none;
+  transition: color .2s ease-in-out;
+}
+
+.lang-menu__lang-link:hover,
+:focus {
+  color: hsla(0, 0%, 100%, 0.607);
+}

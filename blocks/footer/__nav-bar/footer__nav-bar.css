@@ -1,0 +1,4 @@
+.footer__nav-bar {
+  display: flex;
+  justify-content: space-between;
+}
