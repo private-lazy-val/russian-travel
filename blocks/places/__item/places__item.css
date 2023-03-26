@@ -8,3 +8,10 @@
     "header url"
     "image paragraph";
 }
+
+@media only screen and (max-width: 1024px) {
+  .places__item {
+    grid-template-columns: 440px 456px;
+    column-gap: 32px;
+  }
+}

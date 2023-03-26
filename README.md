@@ -1,23 +1,46 @@
-# Проект: Путешествие по России
+# Russian Travel Project
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+An adaptive and responsive web project showcasing the beauty of Russian travel destinations. Built using media queries and responsive web design techniques, this project is optimized for both desktop and mobile devices.
 
-**Интро**
+## Table of Contents
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+1. [Overview](#overview)
+   - [Intro](#intro)
+   - [Figma](#figma)
+   - [Images](#images)
+   - [GitHub Pages](#github-pages)
+2. [Technologies](#technologies)
 
-**Figma**
+## Overview
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+### Intro
 
-**Картинки**
+The Russian Travel Project is a visually stunning and informative website, highlighting some of the most popular travel destinations in Russia. The site is designed to be adaptive and responsive, ensuring a seamless user experience across various devices and screen sizes.
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+### Figma
 
-Удачи!
+The design prototype for the Russian Travel Project was created using Figma. You can view the Figma prototypes at the following link:
+
+- [Figma prototypes](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+
+### Images
+
+All images used in this project have been optimized for faster loading and better performance using the [tiny png](https://tinypng.com/) service.
+
+### GitHub Pages
+
+The Russian Travel Project is hosted on GitHub Pages. You can view the live site here:
+
+- [https://private-lazy-val.github.io/russian-travel/](https://private-lazy-val.github.io/russian-travel/)
+
+## Technologies
+
+The following technologies were used to develop the Russian Travel Project:
+
+- HTML5
+- CSS3
+  - Media queries
+  - Responsive web design
+- Git and GitHub
+- Figma
+- Image optimization tools (e.g., tiny png)

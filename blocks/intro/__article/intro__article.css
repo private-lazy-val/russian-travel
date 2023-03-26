@@ -1,5 +1,11 @@
 .intro__article {
-  width: 984px;
-  box-sizing: border-box;
+  max-width: 690px;
+  /* box-sizing: border-box; */
   padding-right: 294px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .intro__article {
+    padding: 0 238px 0 48px;
+  }
 }

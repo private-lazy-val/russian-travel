@@ -51,10 +51,8 @@
 
 /* Cover */
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/cover/__image/cover__image.css);
 @import url(../blocks/cover/__text/cover__text.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
-@import url(../blocks/cover/__text-container/cover__text-container.css);
+@import url(../blocks/cover/__title/cover__title.css);
 
 /* Footer */
 @import url(../blocks/footer/footer.css);

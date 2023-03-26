@@ -8,47 +8,4 @@
   font-family: 'Inter Sans', 'Helvetica', sans-serif;
   background-color: #2A2C2F;
   color: #fff;
-  display: grid;
-  place-content: center;
-  grid-template-areas:
-    "header"
-    "main"
-    "footer";
-  grid-template-rows: 52px auto 18px;
-  grid-template-columns: 1184px;
-  padding: 28px 48px 24px;
 }
-
-@media only screen and (max-width: 1280px) {
-  .page {
-    grid-template-rows: 52px auto 18px;
-    grid-template-columns: 1184px;
-    padding: 28px 48px 24px;
-  }
-}
-
-@media only screen and (max-width: 1024px) {
-  .page {
-    grid-template-rows: 52px auto 18px;
-    grid-template-columns: 928px;
-    padding: 28px 48px 24px;
-  }
-}
-
-@media only screen and (max-width: 768px) {
-  .page {
-    grid-template-rows: 52px auto 18px;
-    grid-template-columns: 720px;
-    padding: 28px 24px 24px;
-  }
-}
-
-@media only screen and (max-width: 320px) {
-  .page {
-    grid-template-rows: 42px auto 310px;
-    grid-template-columns: 288px;
-    padding: 16px 16px 24px;
-  }
-}
-
-

@@ -4,3 +4,10 @@
   margin: 0 0 92px;
   max-width: 984px;
 }
+
+@media only screen and (max-width: 1024px) {
+  .lead__wrapper {
+    max-width: 928px;
+    padding: 0 48px;
+  }
+}
