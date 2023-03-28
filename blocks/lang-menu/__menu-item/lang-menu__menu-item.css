@@ -9,3 +9,10 @@
 .lang-menu__menu-item:last-of-type {
   margin-left: 18px;
 }
+
+@media only screen and (max-width: 678px) {
+  .lang-menu__menu-item {
+    font-size: 18px;
+    line-height: 111%;
+  }
+}

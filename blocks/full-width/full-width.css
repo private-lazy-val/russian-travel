@@ -1,0 +1,14 @@
+/* This class breaks the image out of it’s parent container
+using some negative margins, relative positioning,
+and the viewport width (vw) unit of measure.*/
+@media only screen and (max-width: 320px) {
+  .full-width {
+    left: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 100vw;
+    position: relative;
+    right: 50%;
+    width: 100vw;
+  }
+}

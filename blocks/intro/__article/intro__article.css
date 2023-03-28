@@ -1,8 +1,4 @@
 .intro__article {
-  /* max-width: calc(984px + 48px*2);
-  margin: 0 auto;
-  padding: 0 48px;
-  box-sizing: border-box; */
   max-width: 984px;
   padding: 0 48px;
   margin: 92px auto;
@@ -12,5 +8,12 @@
   .intro__article {
     padding: 0 24px;
     margin: 88px auto;
+  }
+}
+
+@media only screen and (max-width: 678px) {
+  .intro__article {
+    padding: 0 16px;
+    margin: 64px auto;
   }
 }

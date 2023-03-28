@@ -1,10 +1,10 @@
-.logo {
+.logo__image {
   width: 176px;
   height: 52px;
 }
 
 @media only screen and (max-width: 678px) {
-  .logo {
+  .logo__image {
     width: 142px;
     height: 42px;
   }

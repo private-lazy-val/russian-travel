@@ -4,3 +4,11 @@
   margin: 0;
   padding: 0;
 }
+
+@media only screen and (max-width: 678px) {
+  .footer__links {
+    flex-direction: column;
+    row-gap: 32px;
+    margin-bottom: 48px;
+  }
+}

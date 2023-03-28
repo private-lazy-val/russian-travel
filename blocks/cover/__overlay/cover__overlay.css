@@ -37,3 +37,9 @@
     margin: 90px auto 88px;
   }
 }
+
+@media only screen and (max-width: 678px) {
+  .cover__overlay {
+    margin: 66px auto 64px;
+  }
+}

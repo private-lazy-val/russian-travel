@@ -1,0 +1,11 @@
+.place__text-container {
+  grid-area: paragraph;
+}
+
+@media only screen and (max-width: 678px) {
+  .place__text-container {
+    margin: 32px 0 0;
+  }
+}
+
+

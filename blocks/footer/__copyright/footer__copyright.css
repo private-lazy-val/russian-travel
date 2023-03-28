@@ -31,3 +31,15 @@
     background-position: right;
   }
 }
+
+.footer__copyright {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 114%;
+}
+
+@media only screen and (max-width: 678px) {
+  .footer__copyright {
+    line-height: 100%;
+  }
+}

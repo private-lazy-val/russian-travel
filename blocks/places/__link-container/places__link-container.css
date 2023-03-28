@@ -1,6 +1,0 @@
-.places__link-container {
-  grid-area: url;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-}
