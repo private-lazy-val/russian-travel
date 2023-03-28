@@ -1,11 +1,16 @@
 .intro__article {
-  max-width: 690px;
-  /* box-sizing: border-box; */
-  padding-right: 294px;
+  /* max-width: calc(984px + 48px*2);
+  margin: 0 auto;
+  padding: 0 48px;
+  box-sizing: border-box; */
+  max-width: 984px;
+  padding: 0 48px;
+  margin: 92px auto;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 768px) {
   .intro__article {
-    padding: 0 238px 0 48px;
+    padding: 0 24px;
+    margin: 88px auto;
   }
 }

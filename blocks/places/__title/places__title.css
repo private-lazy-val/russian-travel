@@ -3,3 +3,11 @@
   display: flex;
   align-items: end;
 }
+
+@media only screen and (max-width: 768px) {
+  .places__title {
+    font-weight: 900;
+    font-size: 42px;
+    line-height: 110%;
+  }
+}

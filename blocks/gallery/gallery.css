@@ -7,17 +7,16 @@
   padding: 0 48px;
 }
 
-/*
-@media (min-width: 768px) {
+@media only screen and (max-width: 1024px) {
   .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+    gap: 14px;
   }
 }
 
-@media (min-width: 320px) {
+@media only screen and (max-width: 768px) {
   .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
-    gap: 12px;
+    padding: 0 24px;
+    gap: 16px;
   }
-} */ 
+}
