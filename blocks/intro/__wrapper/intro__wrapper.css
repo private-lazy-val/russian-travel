@@ -1,18 +1,18 @@
-.intro__article {
+.intro__wrapper {
   max-width: 984px;
   padding: 0 48px;
   margin: 92px auto;
 }
 
 @media only screen and (max-width: 768px) {
-  .intro__article {
+  .intro__wrapper {
     padding: 0 24px;
     margin: 88px auto;
   }
 }
 
 @media only screen and (max-width: 678px) {
-  .intro__article {
+  .intro__wrapper {
     padding: 0 16px;
     margin: 64px auto;
   }
