@@ -13,7 +13,6 @@
 
 @media only screen and (max-width: 678px) {
   .footer{
-    padding-bottom: 24px;
     margin: 0 16px;
     display: block;
   }

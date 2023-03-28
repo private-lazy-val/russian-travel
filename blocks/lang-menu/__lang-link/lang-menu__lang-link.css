@@ -7,5 +7,5 @@
 
 .lang-menu__lang-link:hover,
 :focus {
-  color: hsla(0, 0%, 100%, 0.607);
+  color: hsla(0, 0%, 100%, .8);
 }
