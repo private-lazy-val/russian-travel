@@ -21,7 +21,7 @@ The Russian Travel Project is a visually stunning and informative website, highl
 
 The design prototype for the Russian Travel Project was created using Figma. You can view the Figma prototypes at the following link:
 
-- [Figma prototypes](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+- [Figma prototypes](https://www.figma.com/file/lxcnhCQ0KFq9u1ytdnpB3G/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503-0&t=x7dkQJZtB5fHShUH-0)
 
 ### Images
 
