@@ -1,0 +1,12 @@
+.testimonials__author {
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 24px 0 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .testimonials__author  {
+    margin: 16px 0 24px;
+  }
+}

@@ -13,7 +13,7 @@
   align-items: center;
   position: relative;
   z-index: 0;
-  margin: 92px auto;
+  margin: 102px auto;
 }
 
 .cover__overlay::before {
@@ -34,12 +34,18 @@
 
 @media only screen and (max-width: 768px) {
   .cover__overlay {
-    margin: 90px auto 88px;
+    margin: 102px auto 88px;
   }
 }
 
 @media only screen and (max-width: 678px) {
   .cover__overlay {
-    margin: 66px auto 64px;
+    margin: 48px auto 64px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .cover__overlay {
+    margin: 64px auto;
   }
 }

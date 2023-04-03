@@ -1,0 +1,13 @@
+.testimonials__photo {
+  width: 97px;
+  height: 97px;
+  border-radius: 50%;
+  margin-bottom: 42px;
+}
+
+@media only screen and (max-width: 768px) {
+  .testimonials__photo {
+    margin-bottom: 0;
+  }
+}
+

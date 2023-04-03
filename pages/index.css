@@ -57,6 +57,28 @@
 @import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__title/place__title.css);
 
+/* Media */
+@import url(../blocks/media/media.css);
+@import url(../blocks/media/__container/media__container.css);
+@import url(../blocks/media/__director/media__director.css);
+@import url(../blocks/media/__duration/media__duration.css);
+@import url(../blocks/media/__item/media__item.css);
+@import url(../blocks/media/__play-icon/media__play-icon.css);
+@import url(../blocks/media/__name/media__name.css);
+@import url(../blocks/media/__text/media__text.css);
+@import url(../blocks/media/__title/media__title.css);
+@import url(../blocks/media/__subtitle/media__subtitle.css);
+
+/* Testimonials */
+@import url(../blocks/testimonials/testimonials.css);
+@import url(../blocks/testimonials/__author/testimonials__author.css);
+@import url(../blocks/testimonials/__container/testimonials__container.css);
+@import url(../blocks/testimonials/__item/testimonials__item.css);
+@import url(../blocks/testimonials/__photo/testimonials__photo.css);
+@import url(../blocks/testimonials/__quote/testimonials__quote.css);
+@import url(../blocks/testimonials/__title/testimonials__title.css);
+@import url(../blocks/testimonials/__subtitle/testimonials__subtitle.css);
+
 /* Cover */
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__overlay/cover__overlay.css);

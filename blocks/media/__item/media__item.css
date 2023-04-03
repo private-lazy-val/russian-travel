@@ -1,0 +1,28 @@
+.media__item {
+  border-radius: 5px;
+  aspect-ratio: 18/10;
+  max-width: 583px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.media__item:nth-child(1) {
+  background-image: url("./../../../images/kamchatka.jpg");
+}
+
+.media__item:nth-child(2) {
+  background-image: url("./../../../images/observatory.jpg");
+}
+
+.media__item::before {
+  content: '';
+  background: #000000;
+  opacity: .5;
+  border-radius: 5px;
+  display: block;
+  height: 100%;
+}
+
+

@@ -1,0 +1,26 @@
+.media__play-icon {
+  width: 41px;
+  height: 41px;
+  position: absolute;
+  top: 0;
+  padding: 30px 30px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .media__play-icon {
+    padding: 24px 24px;
+  }
+}
+
+@media only screen and (max-width: 866px) {
+  .media__play-icon {
+    padding: 18px 18px;
+  }
+}
+
+@media only screen and (max-width: 678px) {
+  .media__play-icon {
+    padding: 14px 14px;
+  }
+}
+

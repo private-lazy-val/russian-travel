@@ -1,0 +1,13 @@
+.testimonials__quote {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+@media only screen and (max-width: 768px) {
+  .testimonials__quote {
+    order: 1;
+    font-size: 16px;
+    line-height: 23px;
+  }
+}
